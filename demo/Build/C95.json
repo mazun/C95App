@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "C98",
+"dataUrl": "C95.data.unityweb",
+"wasmCodeUrl": "C95.wasm.code.unityweb",
+"wasmFrameworkUrl": "C95.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
